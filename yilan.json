@@ -1,0 +1,137 @@
+{
+    "nodes":[
+        {"name":"菊科","group":0,"value":10},
+        {"name":"十字花科","group":1,"value":10},
+        {"name":"天南星科","group":2,"value":10},
+        {"name":"石蒜科","group":3,"value":10},
+        {"name":"禾本科","group":4,"value":10},
+        {"name":"茄科","group":5,"value":10},
+        {"name":"旋花科","group":6,"value":10},
+        {"name":"莧科","group":7,"value":10},
+        {"name":"傘形科","group":8,"value":10},
+        {"name":"","group":9,"value":10},
+        {"name":"葫蘆科","group":10,"value":10},
+        {"name":"百合科&蔥科","group":11,"value":10},
+
+        {"name":"A菜","group":12,"value":8},
+        {"name":"大陸妹","group":13,"value":8},
+        {"name":"嫩莖萵苣","group":14,"value":8},
+        {"name":"紅鳳菜","group":15,"value":8},
+
+        {"name":"芥菜","group":16,"value":8},
+        {"name":"葉蘿蔔","group":17,"value":8},
+        {"name":"蘿蔔","group":18,"value":8},
+        {"name":"甘藍","group":19,"value":8},
+        {"name":"芥藍","group":20,"value":8},
+        {"name":"大白菜","group":21,"value":8},
+
+        {"name":"芋頭","group":22,"value":8},
+
+        {"name":"韭菜","group":23,"value":8},
+
+        {"name":"玉米筍","group":24,"value":8},
+
+        {"name":"番茄","group":25,"value":8},
+        {"name":"甜椒","group":26,"value":8},
+        {"name":"青椒","group":27,"value":8},
+        {"name":"辣椒","group":28,"value":8},
+        {"name":"茄子","group":29,"value":8},
+
+        {"name":"甘藷","group":30,"value":8},
+        {"name":"葉用甘藷","group":31,"value":8},
+
+        {"name":"菠菜","group":32,"value":8},
+
+        {"name":"芹菜","group":33,"value":8},
+        {"name":"芫荽","group":34,"value":8},
+        {"name":"胡蘿蔔","group":35,"value":8},
+        {"name":"茴香","group":36,"value":8},
+
+        {"name":"南瓜","group":37,"value":8},
+
+        {"name":"蒜","group":38,"value":8},
+        {"name":"蔥","group":39,"value":8},
+
+        {"name":"唇形科","group":40,"value":10},
+
+        {"name":"紫蘇","group":41,"value":8},
+        {"name":"薄荷","group":42,"value":8},
+        {"name":"九層塔","group":43,"value":8},
+
+        {"name":"豆科","group":44,"value":10},
+
+        {"name":"四季豆","group":45,"value":8},
+
+        {"name":"蘆筍","group":46,"value":8}
+    ],
+    "links":[
+        {"source":12,"target":0,"value":4},
+        {"source":13,"target":0,"value":4},
+        {"source":14,"target":0,"value":4},
+        {"source":15,"target":0,"value":4},
+
+        {"source":16,"target":1,"value":4},
+        {"source":17,"target":1,"value":4},
+        {"source":18,"target":1,"value":4},
+        {"source":19,"target":1,"value":4},
+        {"source":20,"target":1,"value":4},
+        {"source":21,"target":1,"value":4},
+
+        {"source":22,"target":2,"value":4},
+
+        {"source":23,"target":3,"value":4},
+
+        {"source":24,"target":4,"value":4},
+
+        {"source":25,"target":5,"value":4},
+        {"source":26,"target":5,"value":4},
+        {"source":27,"target":5,"value":4},
+        {"source":28,"target":5,"value":4},
+        {"source":29,"target":5,"value":4},
+
+        {"source":30,"target":6,"value":4},
+        {"source":31,"target":6,"value":4},
+
+        {"source":32,"target":7,"value":4},
+
+        {"source":33,"target":8,"value":4},
+        {"source":34,"target":8,"value":4},
+        {"source":35,"target":8,"value":4},
+        {"source":36,"target":8,"value":4},
+
+        {"source":37,"target":10,"value":4},
+
+        {"source":38,"target":11,"value":4},
+        {"source":39,"target":11,"value":4},
+
+        {"source":41,"target":40,"value":4},
+        {"source":42,"target":40,"value":4},
+        {"source":43,"target":40,"value":4},
+
+        {"source":44,"target":45,"value":4},
+
+        {"source":46,"target":11,"value":4},
+
+
+        {"source":0,"target":1,"value":16},
+        {"source":0,"target":10,"value":16},
+
+        {"source":1,"target":11,"value":16},
+        {"source":1,"target":40,"value":16},
+
+        {"source":4,"target":10,"value":16},
+        {"source":4,"target":44,"value":16},
+
+        {"source":5,"target":11,"value":16},
+        {"source":5,"target":44,"value":16},
+        {"source":5,"target":40,"value":16},
+
+        {"source":8,"target":1,"value":16},
+        {"source":8,"target":44,"value":16},
+
+        {"source":10,"target":11,"value":16},
+
+        {"source":11,"target":10,"value":16}
+
+    ]
+}
