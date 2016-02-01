@@ -9,7 +9,7 @@
         {"name":"旋花科","group":6,"value":10},
         {"name":"莧科","group":7,"value":10},
         {"name":"傘形科","group":8,"value":10},
-        {"name":"","group":9,"value":10},
+        {"name":"蹄蓋蕨科","group":9,"value":10},
         {"name":"葫蘆科","group":10,"value":10},
         {"name":"百合科&蔥科","group":11,"value":10},
 
@@ -64,7 +64,15 @@
 
         {"name":"蘆筍","group":46,"value":8},
 
-        {"name":"茼蒿","group":47,"value":8}
+        {"name":"茼蒿","group":47,"value":8},
+
+        {"name":"隼人瓜","group":48,"value":8},
+
+        {"name":"蕹菜","group":49,"value":8},
+
+        {"name":"過溝菜蕨","group":50,"value":8},
+
+        {"name":"苦瓜","group":51,"value":8}
     ],
     "links":[
         {"source":12,"target":0,"value":4},
@@ -114,6 +122,14 @@
         {"source":44,"target":45,"value":4},
 
         {"source":46,"target":11,"value":4},
+
+        {"source":48,"target":10,"value":4},
+
+        {"source":49,"target":6,"value":4},
+
+        {"source":50,"target":9,"value":4},
+
+        {"source":51,"target":10,"value":4},
 
 
         {"source":0,"target":1,"value":16},
